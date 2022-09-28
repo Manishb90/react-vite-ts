@@ -5,6 +5,7 @@ function App() {
     <TodoProvider>
       <div>Hello</div>
       <div>Hello</div>
+      <div>Hello again</div>
     </TodoProvider>
   );
 }
